@@ -1,0 +1,3 @@
+Krispie is a Software Development Kit for the Sony PlayStation. With it one can make programs and games for the system without using strangely obtained libraries and tools made by Sony, instead using a totally free and open source solution.
+
+The compiler used by the SDK is based on the GNU Compiler Collection. The libraries used have been in part written from scratch in part adapted from preexisting code. The needed tools are included in the SDK. Thus it is a complete package.
